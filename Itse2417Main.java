@@ -42,7 +42,7 @@ public class Itse2417Main
             new FinalProj(),          // Davila
             new FinalProj(),          // Dietrich
             new FinalProj(),          // Fuentes
-            new FinalProj(),          // Gann
+            new Gann(),          // Gann
             new FinalProj(),          // Hoang
             new FinalProj(),          // Hodson
             new FinalProj(),          // James
